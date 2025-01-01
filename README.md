@@ -1,4 +1,6 @@
 # review_backend
+Project board:
+https://github.com/users/Williamd110/projects/4
 
 // Prisma Schema for the Review Site
 generator client
